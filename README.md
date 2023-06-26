@@ -7,4 +7,4 @@ Also, please do not snitch <3
 This project is licensed under:
 Tarikuzuma!
 
-Please, if you use this document, do cite me or not its fine
+Please, if you use bits of my code, do cite me or not its fine
